@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(40, 40, 40);
+}
+a{
+    color: rgb(3, 79, 3);
+    font-weight: 900;
+}
+a:hover{
+    color: rgb(7, 85, 20);
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 3px;
+}
+
+#cabecalho{
+    font-weight: 600;
+    font-size: 50px;
+    display: flex;
+    background-color: rgb(6, 179, 130);
+    justify-content: center;
+}
+#line{
+    color: white;
+    font-size: 20px;
+    background-color: rgb(4, 66, 48);
+    justify-content: left;
+    padding: 10px;
+}
